@@ -1,152 +1,70 @@
-<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&section=header&text=MOHAMMED%20AASIF&fontSize=40&fontColor=0f172a" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=170&section=header&text=Hi%20I’m%20Mohammed%20Aasif&fontSize=54&fontColor=E6EDF3&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=65&descSize=30" />
 </p>
-
 <p align="center">
-  <strong>Full Stack Developer • Backend Engineer</strong><br/>
-  Java • Spring Boot • SQL • RESTful Systems
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+SQL;Clean+Code+and+Maintainable+Systems;REST+APIs+and+Backend+Architecture;Scalable+Application+Development" />
 </p>
+<hr style="border:1px solid #30363d">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-aasif-create">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=aasif-developer&label=Profile%20Views&color=0e75b6&style=flat)
 
----
+## About Me
 
-## 🔍 Who I Am (In One Minute)
+Pre-final year Computer Science Engineering student focused on backend and full stack development using **Java, Spring Boot, and SQL**. I enjoy building clean, maintainable backend systems and practical applications with a strong focus on fundamentals and code readability.
 
-I’m a **Computer Science Engineering student** who treats software development as an **engineering discipline**, not just coding.
+## Current Focus
 
-My focus is on:
-- **Designing backend systems** that are clean, scalable, and maintainable  
-- Understanding **how data, APIs, and business logic connect**
-- Writing code that **another engineer can trust**
+- Backend-driven full stack projects with Java & Spring Boot  
+- REST API design and backend architecture  
+- SQL queries, schema design, and optimization  
+- Data Structures and Algorithms using Java  
+- System design fundamentals for scalable applications  
 
-I don’t chase tools blindly — I master **fundamentals first**, then apply them to real problems.
+## Key Projects
 
----
+**Food Products Search Platform**  
+Tech Stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript  
+- A full stack food search platform built using RESTful backend services.  
+- Focused on clean API design, relational database structure, and responsive UI.  
 
-## 🧠 How I Think as an Engineer
+**Iron Man Cinematic Website**  
+Tech Stack: HTML · CSS · JavaScript  
+- An interactive, cinematic-themed frontend website inspired by the Iron Man universe.  
+- Implemented smooth transitions, full-screen intro flow, and responsive layouts.  
 
-> I believe good software is built at the intersection of  
-> **clarity, correctness, and consistency.**
+## 💻 Tech Stack
 
-That means:
-- Breaking problems down before touching code  
-- Choosing simple solutions over clever ones  
-- Thinking about **edge cases, data flow, and future changes**
+**Backend**
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Frontend**
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🧰 Core Engineering Stack
+**Tools & Others**
+  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-<table>
-<tr>
-<td width="50%">
+# 📊 GitHub Stats
 
-### Backend
-- Java  
-- Spring Boot  
-- REST API Design  
-- MVC Architecture  
+![](https://github-readme-stats.vercel.app/api?username=aasif-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aasif-developer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aasif-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</td>
-<td width="50%">
+## 🌐 Socials
 
-### Database
-- MySQL  
-- SQL (joins, indexing, schema design)  
-- Data integrity & relationships  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aasif-dev)  
+https://www.linkedin.com/in/mohammed-aasif-dev  
 
-</td>
-</tr>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasifmmd12345@gmail.com)  
+aasifmmd12345@gmail.com  
 
-<tr>
-<td>
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Responsive layouts  
-
-</td>
-<td>
-
-### Tools & Workflow
-- Git & GitHub  
-- Maven  
-- VS Code / IntelliJ  
-- Debugging & refactoring  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 What I Have Built
-
-### 🍽️ Food Products Search Platform  
-**Type:** Full Stack Web Application  
-
-**What I did:**
-- Designed REST APIs using **Spring Boot**
-- Integrated **MySQL** with clean relational schema
-- Built a responsive frontend for real-time searching
-- Focused on **code readability & modular structure**
-
-> This project reflects how I build: backend-first, data-aware, user-focused.
-
----
-
-### 🛡️ ScamShield — Hackathon Project  
-**Type:** AI-assisted backend system  
-
-**Highlights:**
-- Message classification using ML models  
-- Backend logic for fraud risk detection  
-- Built under tight deadlines with a team  
-
-> Shows my ability to **learn fast, collaborate, and execute under pressure**.
-
----
-
-## 📈 Engineering Growth Signals
-
-- Consistent GitHub activity  
-- Projects that evolve (not one-off demos)  
-- Focus on fundamentals: OOP, DSA, DBMS  
-- Hackathon & team experience  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🎯 What I’m Looking For
-
-- **Backend / Full Stack Developer** roles  
-- Teams that value **clean architecture & learning**
-- Opportunities to work on **real systems, real users**
-
-I’m especially interested in roles involving **Java & Spring Boot**.
-
----
-
-## 📬 Let’s Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/mohammed-aasif-create  
-- **Email:** yourmail@gmail.com  
-
----
-
-<p align="center">
-  <em>
-  I don’t just write code.<br/>
-  I engineer solutions.
-  </em>
-</p>
+[![Contact](https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919585270647)  
++91 95852 70647  
