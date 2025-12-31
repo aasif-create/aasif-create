@@ -6,13 +6,13 @@
 </p>
 <hr style="border:1px solid #30363d">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aasif-developer&label=Profile%20Views&color=0e75b6&style=flat)
-
 ## About Me
 
 Pre-final year Computer Science Engineering student focused on backend and full stack development using **Java, Spring Boot, and SQL**. I enjoy building clean, maintainable backend systems and practical applications with a strong focus on fundamentals and code readability.
 
 ## Current Focus
+
+<img align="right" width="380" src="https://media.giphy.com/media/l0MYBQm4U8CwQZocs/giphy.gif" />
 
 - Backend-driven full stack projects with Java & Spring Boot  
 - REST API design and backend architecture  
