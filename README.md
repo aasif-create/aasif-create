@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E2A2F,100:143A40&height=170&section=header&text=Hi%20I’m%20Mohammed%20Aasif&fontSize=54&fontColor=E6EDF3&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=65&descSize=30" />
 </p>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+SQL;REST+API+Development;Clean+Backend+Design;Backend+Systems+%26+Data+Handling" />
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=4FA3A5&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+SQL;REST+API+Development;Clean+Backend+Design;Backend+Systems+%26+Data+Handling" />
 </p>
 <hr style="border:1px solid #30363d">
 
